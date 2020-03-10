@@ -1,4 +1,3 @@
-# CountryFlagApp
-# Simple Example Application
+# CountryFlagApp, Simple Example Application
 
 # CoreData - MVP - UITableViewHeaderFooterView - dataTask
